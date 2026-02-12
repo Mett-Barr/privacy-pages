@@ -35,3 +35,7 @@ privacy-pages/
 4.  Optionally, copy `templates/app-terms.template.html` to `apps/new-app/terms/index.html` and modify its content.
 5.  Optionally, create `apps/new-app/assets/style.css` for app-specific styling.
 6.  Update the main `index.html` to include links to your new app's policies.
+
+## Live Demo
+
+You can view the live demo of this project hosted on GitHub Pages here: [https://mett-barr.github.io/privacy-pages/](https://mett-barr.github.io/privacy-pages/)
